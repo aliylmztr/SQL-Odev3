@@ -1,5 +1,5 @@
-# SQL-Odev3
-SQL-Odev3
+# SQL-Odev3 | LIKE ve ILIKE
+SQL-Odev3 | LIKE ve ILIKE
 
 www.patika.dev
 
